@@ -6,7 +6,7 @@ MusicMatchup is a web application that allows users to input two different music
 
 ## Getting Started
 
-To use the app, simply visit the MusicMatchup website and enter two artists in the search bar. The app will generate a graph of the two artists' connections in real time.
+To use the app, simply visit the [MusicMatchup](https://dbrocker.shinyapps.io/MusicMatchup/) website and enter two artists in the search bar. The app will generate a graph of the two artists' connections in real time.
 
 ## Contributing
 
