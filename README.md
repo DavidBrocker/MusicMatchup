@@ -1,5 +1,7 @@
 # MusicMatchup
 
+
+
 MusicMatchup is a web application that allows users to input two different musical artists and visually see how the two are connected through similar genres, shared collaborations, and mutual fan bases.
 
 ## Getting Started
