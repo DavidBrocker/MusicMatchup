@@ -2,11 +2,11 @@
 
 ![screenshot](www/ss.png)
 
-MusicMatchup is a web application that allows users to input two different musical artists and visually see how the two are connected through similar genres, shared collaborations, and mutual fan bases.
+MusicMatchup is a web application that allows users to input their favorite artist and visually see other artists connected through similar genres, shared collaborations, and mutual fan bases.
 
 ## Getting Started
 
-To use the app, simply visit the [MusicMatchup](https://dbrocker.shinyapps.io/MusicMatchup/) website and enter two artists in the search bar. The app will generate a graph of the two artists' connections in real time.
+To use the app, simply visit the [MusicMatchup](https://dbrocker.shinyapps.io/MusicMatchup/) website and enter an artist in the search bar. The app will generate a graph of the artist recommendations in real time.
 
 ## Contributing
 
